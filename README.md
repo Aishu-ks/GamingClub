@@ -200,3 +200,14 @@ TO IMPROT DATA INTO THE BACKEND/ATLAS:
    -> run >> mongoimport --version(to check if its there or not)
 * run the command  mongoimport --uri "mongodb+srv://aishuks:Aira123@cluster0.wpjrhxr.mongodb.net/gamingclub" --collection products --type csv --headerline --file "C:\Users\aishu\OneDrive\Desktop\products (4).csv"
 * it'll successfully reflect in the atlas.
+
+
+
+
+SPRINGBOOT:
+
+* Install spring initializer
+   ->config(project:Maven , Language: Java , springboot:3.5.5)
+  ->Added dependencies,spring web,spring data mongodb
+* Import it to eclipse IDE/ VS Code
+* start the backend code
