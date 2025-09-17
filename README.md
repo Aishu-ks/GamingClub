@@ -232,7 +232,8 @@ TO IMPROT DATA INTO THE BACKEND/ATLAS:
 * Create a Dockerfile in the gamingsystem folder
   
 >>Render.com
->>
+ ->add repo link choose dockerpath and deploy the project
+>> A link is generated, which is replaced in place of "http://localhost:8080"
 
 
 
