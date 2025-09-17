@@ -215,7 +215,7 @@ TO IMPROT DATA INTO THE BACKEND/ATLAS:
 
 
 
-SPRINGBOOT:
+**SPRINGBOOT:**
 
 * Install spring initializer
    ->config(project:Maven , Language: Java , springboot:3.5.5)
@@ -229,6 +229,11 @@ SPRINGBOOT:
 * Modify applicationproperties
 * Run gamingsystemapplication.
 * apply HTTP operations in postman
+* Create a Dockerfile in the gamingsystem folder
+  
+>>Render.com
+>>
+
 
 
 
