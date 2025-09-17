@@ -204,6 +204,17 @@ TO IMPROT DATA INTO THE BACKEND/ATLAS:
 
 
 
+
+
+
+
+**DAY-3**
+
+
+
+
+
+
 SPRINGBOOT:
 
 * Install spring initializer
@@ -211,3 +222,14 @@ SPRINGBOOT:
   ->Added dependencies,spring web,spring data mongodb
 * Import it to eclipse IDE/ VS Code
 * start the backend code
+ ->create Products.java
+ ->ProductsController.java
+ ->ProductsRepository.java
+
+* Modify applicationproperties
+* Run gamingsystemapplication.
+* apply HTTP operations in postman
+
+
+
+
